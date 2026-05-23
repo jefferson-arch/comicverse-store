@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#ffcc33"/><stop offset="1" stop-color="#e63946"/></linearGradient></defs>
+<rect width="420" height="120" rx="24" fill="#0b1020"/>
+<circle cx="56" cy="60" r="34" fill="url(#g)"/><text x="38" y="72" font-family="Arial" font-size="34" font-weight="800" fill="#0b1020">CV</text>
+<text x="105" y="52" font-family="Arial" font-size="35" font-weight="800" fill="white">ComicVerse</text><text x="108" y="82" font-family="Arial" font-size="18" fill="#ffcc33">STORE · TIENDA DE CÓMICS</text>
+</svg>
