@@ -10,11 +10,6 @@ Contenido incluido:
 - styles.css
 - carpeta img
 
-Instrucciones:
-1. Descomprimir la carpeta completa.
-2. Abrir index.html en Google Chrome o Microsoft Edge.
-3. Para GitHub Pages, subir todos los archivos y la carpeta img al repositorio.
-
 Secciones del sitio:
 - Inicio
 - Productos
